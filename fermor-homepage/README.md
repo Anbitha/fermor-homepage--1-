@@ -200,97 +200,14 @@ The completed project was deployed so that the homepage could be tested
 as a live web experience rather than only as a local development
 project.
 
-## Project Structure
-
-The exact structure may vary depending on the Next.js configuration, but
-the project follows a component-based organisation similar to:
-
-``` text
-fermor/
-├── app/ or pages/
-│   └── ...
-├── components/
-│   └── ...
-├── public/
-│   └── ...
-├── styles/
-│   └── ...
-├── package.json
-└── README.md
-```
-
-## Running Locally
-
-### Prerequisites
-
-Make sure you have:
-
--   Node.js installed
--   npm installed
-
-### Installation
-
-Clone the repository:
-
-``` bash
-git clone <https://github.com/Anbitha/fermor-homepage>
-```
-
-Move into the project directory:
-
-``` bash
-cd <fermor-homepage>
-```
-
-Install dependencies:
-
-``` bash
-npm install
-```
-
-### Development Server
-
-Start the development server:
-
-``` bash
-npm run dev
-```
-
-Then open:
-
-``` text
-http://localhost:3000
-```
-
-## Production Build
-
-To create a production build:
-
-``` bash
-npm run build
-```
-
-To run the production build locally:
-
-``` bash
-npm start
-```
-
 ## Deployment
 
 The project is deployed as a live web application.
 
-**Live Demo:** `<https://fermor-homepage-ashen.vercel.app/>`
+**Live Demo:** `<https://fermor-homepage-five.vercel.app/>`
 
-**GitHub Repository:** `<https://github.com/Anbitha/fermor-homepage>`
+**GitHub Repository:** `<https://github.com/Anbitha/fermor-homepage--1->`
 
-## Notes
-
-This project focuses specifically on the homepage experience requested
-in the assignment. The financial data and visualisations presented in
-the interface are UI representations intended to communicate the product
-experience; this implementation does not represent a connected financial
-account or real financial advice.
 
 ## Conclusion
 
